@@ -7,12 +7,8 @@
         "id": "5ce8e01f2e85aa5e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "flutter/6.arquitectura_bloc_and_singleton.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -53,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "bd13cff3ec492586",
@@ -70,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flutter/6.arquitectura_bloc_and_singleton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,11 +85,12 @@
   "active": "5ce8e01f2e85aa5e",
   "lastOpenFiles": [
     "flutter/6.arquitectura_bloc_and_singleton.md",
+    "flutter/3.basic-widget.md",
     "flutter/5.arquitecturas.md",
+    "flutter/assets/Pasted image 20220603144835.png",
     "flutter/2.project-structure.md",
     "flutter/1.introduction.md",
     "flutter/4.widget-types.md",
-    "flutter/3.basic-widget.md",
     "flutter/Untitled.md"
   ]
 }
